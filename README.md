@@ -1,2 +1,2 @@
-# Soft-Competetion
-time series prediction(Stock Price) python
+# Softech-Competetion
+Time series prediction(Stock Price) python
